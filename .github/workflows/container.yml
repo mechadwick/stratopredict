@@ -41,6 +41,6 @@ jobs:
         # Every folder in the repo that has a Dockerfile within it, comma separated 
         PROJECT_NAME: "stratopredict"
       run: |
-        docker buildx build "$folder" --push \
+        docker buildx build . --push \
         --tag mechadwick/stratopredict:latest \
         --platform linux/arm64,linux/amd64
