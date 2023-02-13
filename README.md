@@ -3,7 +3,7 @@
 [![Documentation Status](https://readthedocs.org/projects/tawhiri/badge/?version=latest)](https://readthedocs.org/projects/tawhiri/?badge=latest)
 
 
-## Forked version of prediction
+## Forked version of prediction software
 
 ## Introduction
 
