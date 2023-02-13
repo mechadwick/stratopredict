@@ -2,7 +2,7 @@ name: Container Processing
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "master" ]
 
 jobs:
 
